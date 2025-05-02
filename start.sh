@@ -1,5 +1,7 @@
 #!/bin/bash
 
+pip install -r requirements.in
+
 # first step
 python3 dump27/most_props.py
 
