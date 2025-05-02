@@ -103,30 +103,6 @@ Each module performs a specific analysis task:
 
 ---
 
-## 📐 Diagram Notes
-
-When visualizing this architecture:
-
-- Use **color-coded rectangles**:
-  - Green: Data Sources
-  - Blue: Processing Modules
-  - Orange: Outputs
-  - Gray: Orchestrator
-  - Purple: External Services
-
-- Use **arrows** annotated with flow descriptions:
-  - `"reads JSON dump"`
-  - `"writes TSV/CSV"`
-  - `"uploads via API"`
-
-- Group modules under a **“Processing Modules” swimlane**.
-
-- Show optional API interactions using **dashed arrows**.
-
-- Include a **legend** explaining shapes/colors.
-
----
-
 ## ✅ Summary
 
 This project provides a clean, modular, and extensible way to process WikiData JSON dumps and produce actionable insights. Its structure allows for easy addition of new analysis modules while maintaining clear separation of responsibilities across components.
