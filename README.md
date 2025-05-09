@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MrIbrahem/wd_dumps)
+
 # WikiData Dumps Processing Scripts
 
 This repository contains scripts used for processing WikiData dumps.
