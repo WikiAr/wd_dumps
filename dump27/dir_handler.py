@@ -15,7 +15,7 @@ from pathlib import Path
 
 def check_dir(path):
     if not path.exists():
-        path.mkdir()
+        path.mkdir(parents=True)
 
 
 main_dir = Path(__file__).parent.parent
@@ -41,6 +41,7 @@ check_dir(labels_results_dir)
 check_dir(claims_results_dir)
 check_dir(sitelinks_results_dir)
 check_dir(dump_dir_claims_fixed)
+check_dir(dump_parts1_fixed)
 
 most_props_path = dump_files_dir / "properties.json"
 
