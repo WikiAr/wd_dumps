@@ -131,7 +131,7 @@ def dump_lines_claims(linesc):
     # ---
     items_file_fixed = dump_dir_claims_fixed / f"{dump_done['claims']}.json"
     # ---
-    tabs["properties"] = tabs_properties
+    # tabs["properties"] = tabs_properties
     # ---
     # with open(items_file_fixed, "w", encoding="utf-8") as f: json.dump(tabs, f)
     # ---
@@ -157,7 +157,7 @@ def dump_lines_claims(linesc):
     print(f"dump_lines claims fixed: {items_file_fixed_size}")
 
     # ---------- NEW: return statistics used by the caller ----------
-    return tabs
+    return tabs  # , tabs_properties
 
 
 def dump_lines(lines):
