@@ -306,8 +306,8 @@ def parse_lines_from_url(url):
 
 def process_data(bz2_file="", url=""):
     tt[1] = time.time()
-    mem_nu = 10000
-    dump_numbs = 100000
+    mem_nu = 10_000
+    dump_numbs = 10_000 if "test" in sys.argv else 100_000
     # ---
     skip_to = 0
     # ---
@@ -370,6 +370,7 @@ def process_data(bz2_file="", url=""):
             stats = dump_lines_claims(lines_claims)
             # ---
             for x, v in stats.items():
+                claims_stats.setdefault(x, 0)
                 claims_stats[x] += v
             # ---
             lines_claims.clear()
@@ -397,6 +398,7 @@ def process_data(bz2_file="", url=""):
         stats = dump_lines_claims(lines_claims)
         # ---
         for x, v in stats.items():
+            claims_stats.setdefault(x, 0)
             claims_stats[x] += v
         # ---
         with open(dump_files_dir / "claims_stats.json", "w", encoding="utf-8") as f:
