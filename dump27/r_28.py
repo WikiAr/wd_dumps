@@ -150,7 +150,9 @@ def dump_lines_claims(linesc):
     # items_file_size = naturalsize(os.path.getsize(items_file), binary=True)
     # print(f"dump_lines claims size: {items_file_size}, fixed: {items_file_fixed_size}")
     # ---
-    items_file_fixed_size = naturalsize(os.path.getsize(items_file_fixed), binary=True)
+    ss= os.path.getsize(items_file_fixed) if items_file_fixed.exists() else 0
+    # ---
+    items_file_fixed_size = naturalsize(ss, binary=True)
     # ---
     print(f"dump_lines claims fixed: {items_file_fixed_size}")
 
