@@ -72,7 +72,7 @@ def dump_lines_claims(linesc):
         "items_no_P31": 0,
         "All_items": 0,
         "total_claims": 0,
-        "properties": {},
+        # "properties": {},
     }
     # ---
     tabs["All_items"] += len(linesc)
