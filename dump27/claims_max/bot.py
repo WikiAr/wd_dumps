@@ -1,5 +1,8 @@
 """
 
+python I:\core\bots\dump_core\dump26\claims_max\aftter_splits.py
+
+
 """
 import sys
 import time
