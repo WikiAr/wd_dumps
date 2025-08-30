@@ -1,7 +1,13 @@
 #!/bin/bash
-git clone https://github.com/WikiAr/wd_dumps.git
+
+rm -rf wd_dumps
+
+git clone https://github.com/WikiAr/wd_dumps.git -b update
 
 cd wd_dumps
+
+rm -rf dump_files
+rm -rf results
 
 pip install -r requirements.in
 
