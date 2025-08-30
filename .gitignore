@@ -5,3 +5,5 @@
 /results
 /dump_files/split_by_pid
 /dump_files/parts1_claims_fixed
+*.zip
+/dump_files/parts1_fixed
