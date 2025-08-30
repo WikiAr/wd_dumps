@@ -1,8 +1,6 @@
 **/old/**
 *.pyc
 *.txt
-/results
-!/results/**/*.json
 /dump_files/split_by_pid
 /dump_files/parts1_claims_fixed
 *.zip
