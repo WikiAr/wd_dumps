@@ -150,7 +150,7 @@ def dump_lines_claims(linesc):
     # items_file_size = naturalsize(os.path.getsize(items_file), binary=True)
     # print(f"dump_lines claims size: {items_file_size}, fixed: {items_file_fixed_size}")
     # ---
-    ss= os.path.getsize(items_file_fixed) if items_file_fixed.exists() else 0
+    ss = os.path.getsize(items_file_fixed) if items_file_fixed.exists() else 0
     # ---
     items_file_fixed_size = naturalsize(ss, binary=True)
     # ---
@@ -281,6 +281,9 @@ def filter_and_process(entity_dict):
                 "all_props" in sys.argv  # or p in most_props
             )},
         }
+        # ---
+        if "all_props" not in sys.argv:
+            print('Add "all_props" to sys.argv to process all properties')
         # ---
         return line, line2
     # ---
