@@ -1,4 +1,7 @@
 **/old/**
 *.pyc
 *.txt
-*.json
+
+/results
+/dump_files/split_by_pid
+/dump_files/parts1_claims_fixed
