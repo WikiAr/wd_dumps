@@ -1,4 +1,7 @@
 #!/bin/bash
+git clone https://github.com/WikiAr/wd_dumps.git
+
+cd wd_dumps
 
 pip install -r requirements.in
 
@@ -6,7 +9,7 @@ pip install -r requirements.in
 python3 dump27/most_props.py
 
 # process the dumps
-python3 dump27/r_28.py
+python3 dump27/r_28.py all_props
 
 # make report from the dumps:
 
