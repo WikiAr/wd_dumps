@@ -1,0 +1,3051 @@
+{
+    "date": "2025-04-23",
+    "last_total": 115641305,
+    "without": {
+        "labels": 190190,
+        "descriptions": 6898240,
+        "aliases": 100708557
+    },
+    "langs": {
+        "aa": {
+            "labels": 473764,
+            "descriptions": 47,
+            "aliases": 174258
+        },
+        "aae": {
+            "labels": 4,
+            "descriptions": 1,
+            "aliases": 1
+        },
+        "ab": {
+            "labels": 293379,
+            "descriptions": 230790,
+            "aliases": 422855
+        },
+        "abs": {
+            "labels": 153184,
+            "descriptions": 3,
+            "aliases": 150894
+        },
+        "ace": {
+            "labels": 722795,
+            "descriptions": 7773505,
+            "aliases": 179545
+        },
+        "acm": {
+            "labels": 20,
+            "descriptions": 8,
+            "aliases": 7
+        },
+        "ady": {
+            "labels": 267467,
+            "descriptions": 108273,
+            "aliases": 421619
+        },
+        "ady-cyrl": {
+            "labels": 158239,
+            "descriptions": 2,
+            "aliases": 421587
+        },
+        "aeb": {
+            "labels": 154223,
+            "descriptions": 29,
+            "aliases": 425041
+        },
+        "aeb-arab": {
+            "labels": 157838,
+            "descriptions": 3626,
+            "aliases": 425165
+        },
+        "aeb-latn": {
+            "labels": 420377,
+            "descriptions": 186,
+            "aliases": 168870
+        },
+        "af": {
+            "labels": 1824286,
+            "descriptions": 8196607,
+            "aliases": 201654
+        },
+        "agq": {
+            "labels": 152,
+            "descriptions": 29,
+            "aliases": 12
+        },
+        "ak": {
+            "labels": 564052,
+            "descriptions": 231522,
+            "aliases": 171445
+        },
+        "aln": {
+            "labels": 463435,
+            "descriptions": 434,
+            "aliases": 173165
+        },
+        "als": {
+            "labels": 106991,
+            "descriptions": 107134,
+            "aliases": 28
+        },
+        "alt": {
+            "labels": 111826,
+            "descriptions": 108327,
+            "aliases": 89
+        },
+        "am": {
+            "labels": 281033,
+            "descriptions": 389734,
+            "aliases": 449183
+        },
+        "ami": {
+            "labels": 3539,
+            "descriptions": 13,
+            "aliases": 140
+        },
+        "an": {
+            "labels": 5495923,
+            "descriptions": 11448547,
+            "aliases": 196461
+        },
+        "ang": {
+            "labels": 584248,
+            "descriptions": 231833,
+            "aliases": 173430
+        },
+        "ann": {
+            "labels": 441,
+            "descriptions": 89,
+            "aliases": 40
+        },
+        "anp": {
+            "labels": 252481,
+            "descriptions": 57362,
+            "aliases": 425393
+        },
+        "apc": {
+            "labels": 162,
+            "descriptions": 52,
+            "aliases": 73
+        },
+        "ar": {
+            "labels": 3490906,
+            "descriptions": 59557596,
+            "aliases": 1020194
+        },
+        "arc": {
+            "labels": 267649,
+            "descriptions": 231001,
+            "aliases": 425794
+        },
+        "arn": {
+            "labels": 465600,
+            "descriptions": 132,
+            "aliases": 174069
+        },
+        "arq": {
+            "labels": 155916,
+            "descriptions": 851,
+            "aliases": 425384
+        },
+        "ary": {
+            "labels": 313020,
+            "descriptions": 770976,
+            "aliases": 426808
+        },
+        "arz": {
+            "labels": 1895779,
+            "descriptions": 5951395,
+            "aliases": 429656
+        },
+        "as": {
+            "labels": 580178,
+            "descriptions": 3232510,
+            "aliases": 448541
+        },
+        "ase": {
+            "labels": 153177,
+            "descriptions": 4,
+            "aliases": 150892
+        },
+        "ast": {
+            "labels": 19074061,
+            "descriptions": 57976889,
+            "aliases": 548011
+        },
+        "atj": {
+            "labels": 566982,
+            "descriptions": 261180,
+            "aliases": 170564
+        },
+        "av": {
+            "labels": 296987,
+            "descriptions": 288139,
+            "aliases": 422826
+        },
+        "avk": {
+            "labels": 562296,
+            "descriptions": 109515,
+            "aliases": 170900
+        },
+        "awa": {
+            "labels": 361566,
+            "descriptions": 108447,
+            "aliases": 425388
+        },
+        "ay": {
+            "labels": 583895,
+            "descriptions": 231380,
+            "aliases": 174422
+        },
+        "az": {
+            "labels": 739755,
+            "descriptions": 1420846,
+            "aliases": 605957
+        },
+        "azb": {
+            "labels": 755592,
+            "descriptions": 309305,
+            "aliases": 168042
+        },
+        "ba": {
+            "labels": 390744,
+            "descriptions": 7007968,
+            "aliases": 448934
+        },
+        "bag": {
+            "labels": 83,
+            "descriptions": 0,
+            "aliases": 3
+        },
+        "ban": {
+            "labels": 616918,
+            "descriptions": 127646,
+            "aliases": 173875
+        },
+        "ban-bali": {
+            "labels": 761,
+            "descriptions": 4,
+            "aliases": 7
+        },
+        "bar": {
+            "labels": 1808239,
+            "descriptions": 7529400,
+            "aliases": 204080
+        },
+        "bas": {
+            "labels": 213,
+            "descriptions": 12,
+            "aliases": 5
+        },
+        "bat-smg": {
+            "labels": 107189,
+            "descriptions": 107187,
+            "aliases": 0
+        },
+        "bax": {
+            "labels": 37,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "bbc": {
+            "labels": 461157,
+            "descriptions": 13938,
+            "aliases": 171608
+        },
+        "bbc-latn": {
+            "labels": 420343,
+            "descriptions": 73103,
+            "aliases": 168978
+        },
+        "bbj": {
+            "labels": 90,
+            "descriptions": 0,
+            "aliases": 4
+        },
+        "bcc": {
+            "labels": 252302,
+            "descriptions": 386,
+            "aliases": 425887
+        },
+        "bci": {
+            "labels": 17,
+            "descriptions": 5,
+            "aliases": 3
+        },
+        "bcl": {
+            "labels": 598560,
+            "descriptions": 312326,
+            "aliases": 174518
+        },
+        "bdr": {
+            "labels": 478,
+            "descriptions": 37,
+            "aliases": 43
+        },
+        "be": {
+            "labels": 834382,
+            "descriptions": 10205297,
+            "aliases": 674277
+        },
+        "be-tarask": {
+            "labels": 649992,
+            "descriptions": 9045646,
+            "aliases": 667073
+        },
+        "be-x-old": {
+            "labels": 62,
+            "descriptions": 905,
+            "aliases": 16
+        },
+        "bew": {
+            "labels": 34370,
+            "descriptions": 6591,
+            "aliases": 1106
+        },
+        "bfd": {
+            "labels": 2,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "bg": {
+            "labels": 4853844,
+            "descriptions": 41450402,
+            "aliases": 702566
+        },
+        "bgn": {
+            "labels": 250576,
+            "descriptions": 11,
+            "aliases": 425034
+        },
+        "bh": {
+            "labels": 44,
+            "descriptions": 3213,
+            "aliases": 6
+        },
+        "bho": {
+            "labels": 388354,
+            "descriptions": 6037642,
+            "aliases": 427748
+        },
+        "bi": {
+            "labels": 504058,
+            "descriptions": 166283,
+            "aliases": 174497
+        },
+        "bjn": {
+            "labels": 288111,
+            "descriptions": 5752734,
+            "aliases": 433917
+        },
+        "bkc": {
+            "labels": 82,
+            "descriptions": 0,
+            "aliases": 1
+        },
+        "bkh": {
+            "labels": 82,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "bkm": {
+            "labels": 84,
+            "descriptions": 0,
+            "aliases": 2
+        },
+        "blk": {
+            "labels": 3568,
+            "descriptions": 300,
+            "aliases": 49
+        },
+        "bm": {
+            "labels": 610794,
+            "descriptions": 172531,
+            "aliases": 176368
+        },
+        "bn": {
+            "labels": 10129026,
+            "descriptions": 47802121,
+            "aliases": 654114
+        },
+        "bo": {
+            "labels": 289903,
+            "descriptions": 202230,
+            "aliases": 441129
+        },
+        "bpy": {
+            "labels": 356504,
+            "descriptions": 1589627,
+            "aliases": 425558
+        },
+        "bqi": {
+            "labels": 252240,
+            "descriptions": 0,
+            "aliases": 425886
+        },
+        "br": {
+            "labels": 1792055,
+            "descriptions": 7723816,
+            "aliases": 206402
+        },
+        "brh": {
+            "labels": 194758,
+            "descriptions": 14,
+            "aliases": 429396
+        },
+        "bs": {
+            "labels": 1119542,
+            "descriptions": 9412454,
+            "aliases": 183592
+        },
+        "btm": {
+            "labels": 154510,
+            "descriptions": 6292,
+            "aliases": 150938
+        },
+        "bto": {
+            "labels": 425970,
+            "descriptions": 33,
+            "aliases": 170022
+        },
+        "bug": {
+            "labels": 245528,
+            "descriptions": 5635741,
+            "aliases": 428858
+        },
+        "bug-bugi": {
+            "labels": 6,
+            "descriptions": 3,
+            "aliases": 5
+        },
+        "bxr": {
+            "labels": 164842,
+            "descriptions": 198810,
+            "aliases": 421786
+        },
+        "byv": {
+            "labels": 83,
+            "descriptions": 0,
+            "aliases": 4
+        },
+        "ca": {
+            "labels": 9519648,
+            "descriptions": 47269991,
+            "aliases": 467527
+        },
+        "cak": {
+            "labels": 1,
+            "descriptions": 1,
+            "aliases": 1
+        },
+        "cal": {
+            "labels": 2,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "cbk-zam": {
+            "labels": 472559,
+            "descriptions": 143847,
+            "aliases": 174130
+        },
+        "ccp": {
+            "labels": 2,
+            "descriptions": 0,
+            "aliases": 1
+        },
+        "cdo": {
+            "labels": 226270,
+            "descriptions": 236172,
+            "aliases": 430524
+        },
+        "cdo-latn": {
+            "labels": 4,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "ce": {
+            "labels": 691637,
+            "descriptions": 1228468,
+            "aliases": 429160
+        },
+        "ceb": {
+            "labels": 8288976,
+            "descriptions": 863357,
+            "aliases": 245781
+        },
+        "ch": {
+            "labels": 468322,
+            "descriptions": 144712,
+            "aliases": 173929
+        },
+        "chn": {
+            "labels": 2,
+            "descriptions": 1,
+            "aliases": 0
+        },
+        "cho": {
+            "labels": 467936,
+            "descriptions": 5,
+            "aliases": 173898
+        },
+        "chr": {
+            "labels": 195017,
+            "descriptions": 247819,
+            "aliases": 428737
+        },
+        "chy": {
+            "labels": 468493,
+            "descriptions": 141222,
+            "aliases": 173931
+        },
+        "ckb": {
+            "labels": 602472,
+            "descriptions": 7223947,
+            "aliases": 428188
+        },
+        "cnh": {
+            "labels": 5,
+            "descriptions": 2,
+            "aliases": 0
+        },
+        "co": {
+            "labels": 1444727,
+            "descriptions": 212906,
+            "aliases": 193869
+        },
+        "cop": {
+            "labels": 7,
+            "descriptions": 2,
+            "aliases": 1
+        },
+        "cps": {
+            "labels": 426123,
+            "descriptions": 17,
+            "aliases": 169942
+        },
+        "cpx": {
+            "labels": 3,
+            "descriptions": 1,
+            "aliases": 2
+        },
+        "cpx-hans": {
+            "labels": 2,
+            "descriptions": 1,
+            "aliases": 1
+        },
+        "cpx-hant": {
+            "labels": 3,
+            "descriptions": 1,
+            "aliases": 2
+        },
+        "cpx-latn": {
+            "labels": 6,
+            "descriptions": 1,
+            "aliases": 1
+        },
+        "cr": {
+            "labels": 198692,
+            "descriptions": 141233,
+            "aliases": 428693
+        },
+        "crh": {
+            "labels": 381236,
+            "descriptions": 549735,
+            "aliases": 167666
+        },
+        "crh-cyrl": {
+            "labels": 158415,
+            "descriptions": 3,
+            "aliases": 421586
+        },
+        "crh-latn": {
+            "labels": 474528,
+            "descriptions": 144760,
+            "aliases": 174206
+        },
+        "crh-ro": {
+            "labels": 241,
+            "descriptions": 118,
+            "aliases": 91
+        },
+        "cs": {
+            "labels": 4840780,
+            "descriptions": 44060394,
+            "aliases": 727592
+        },
+        "csb": {
+            "labels": 672225,
+            "descriptions": 696177,
+            "aliases": 174805
+        },
+        "cu": {
+            "labels": 195286,
+            "descriptions": 141868,
+            "aliases": 428731
+        },
+        "cv": {
+            "labels": 245016,
+            "descriptions": 810526,
+            "aliases": 614954
+        },
+        "cy": {
+            "labels": 2576139,
+            "descriptions": 9620208,
+            "aliases": 224035
+        },
+        "da": {
+            "labels": 4011331,
+            "descriptions": 41468507,
+            "aliases": 350373
+        },
+        "dag": {
+            "labels": 288553,
+            "descriptions": 792272,
+            "aliases": 5867
+        },
+        "de": {
+            "labels": 16929311,
+            "descriptions": 71273065,
+            "aliases": 1879873
+        },
+        "de-at": {
+            "labels": 1634478,
+            "descriptions": 7298994,
+            "aliases": 198937
+        },
+        "de-ch": {
+            "labels": 1688034,
+            "descriptions": 8101179,
+            "aliases": 196621
+        },
+        "de-formal": {
+            "labels": 151412,
+            "descriptions": 206,
+            "aliases": 150909
+        },
+        "dga": {
+            "labels": 2923,
+            "descriptions": 1697,
+            "aliases": 1045
+        },
+        "din": {
+            "labels": 425169,
+            "descriptions": 32,
+            "aliases": 169942
+        },
+        "diq": {
+            "labels": 251271,
+            "descriptions": 155676,
+            "aliases": 430395
+        },
+        "dsb": {
+            "labels": 531102,
+            "descriptions": 154270,
+            "aliases": 176213
+        },
+        "dso": {
+            "labels": 2,
+            "descriptions": 2,
+            "aliases": 1
+        },
+        "dtp": {
+            "labels": 468603,
+            "descriptions": 108906,
+            "aliases": 173452
+        },
+        "dty": {
+            "labels": 255514,
+            "descriptions": 4762365,
+            "aliases": 425447
+        },
+        "dua": {
+            "labels": 96,
+            "descriptions": 11,
+            "aliases": 3
+        },
+        "dv": {
+            "labels": 530478,
+            "descriptions": 3539071,
+            "aliases": 425681
+        },
+        "dz": {
+            "labels": 251410,
+            "descriptions": 45,
+            "aliases": 425362
+        },
+        "ee": {
+            "labels": 596151,
+            "descriptions": 234282,
+            "aliases": 174905
+        },
+        "efi": {
+            "labels": 4,
+            "descriptions": 3,
+            "aliases": 1
+        },
+        "egl": {
+            "labels": 437312,
+            "descriptions": 16,
+            "aliases": 170670
+        },
+        "el": {
+            "labels": 836974,
+            "descriptions": 38742174,
+            "aliases": 678445
+        },
+        "eml": {
+            "labels": 605566,
+            "descriptions": 425322,
+            "aliases": 175288
+        },
+        "en": {
+            "labels": 89390361,
+            "descriptions": 97716255,
+            "aliases": 8597317
+        },
+        "en-ca": {
+            "labels": 2473278,
+            "descriptions": 29874885,
+            "aliases": 204843
+        },
+        "en-gb": {
+            "labels": 3132608,
+            "descriptions": 33104062,
+            "aliases": 263223
+        },
+        "en-us": {
+            "labels": 273298,
+            "descriptions": 886247,
+            "aliases": 24195
+        },
+        "eo": {
+            "labels": 6067311,
+            "descriptions": 42915713,
+            "aliases": 273820
+        },
+        "es": {
+            "labels": 16135919,
+            "descriptions": 60970616,
+            "aliases": 1223926
+        },
+        "es-419": {
+            "labels": 160216,
+            "descriptions": 4055,
+            "aliases": 152214
+        },
+        "es-formal": {
+            "labels": 152033,
+            "descriptions": 402,
+            "aliases": 151016
+        },
+        "et": {
+            "labels": 2074875,
+            "descriptions": 39027047,
+            "aliases": 248092
+        },
+        "eto": {
+            "labels": 83,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "etu": {
+            "labels": 80,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "eu": {
+            "labels": 6336414,
+            "descriptions": 12947419,
+            "aliases": 249651
+        },
+        "ewo": {
+            "labels": 84,
+            "descriptions": 1,
+            "aliases": 1
+        },
+        "ext": {
+            "labels": 4304653,
+            "descriptions": 379033,
+            "aliases": 176578
+        },
+        "fa": {
+            "labels": 2535997,
+            "descriptions": 18383290,
+            "aliases": 720907
+        },
+        "fat": {
+            "labels": 1937,
+            "descriptions": 19713,
+            "aliases": 439
+        },
+        "ff": {
+            "labels": 597248,
+            "descriptions": 231063,
+            "aliases": 174558
+        },
+        "fi": {
+            "labels": 7655713,
+            "descriptions": 39305279,
+            "aliases": 430254
+        },
+        "fit": {
+            "labels": 676837,
+            "descriptions": 549480,
+            "aliases": 175768
+        },
+        "fiu-vro": {
+            "labels": 106993,
+            "descriptions": 106982,
+            "aliases": 0
+        },
+        "fj": {
+            "labels": 590011,
+            "descriptions": 230576,
+            "aliases": 174627
+        },
+        "fkv": {
+            "labels": 155256,
+            "descriptions": 2,
+            "aliases": 151080
+        },
+        "fmp": {
+            "labels": 104,
+            "descriptions": 1,
+            "aliases": 1
+        },
+        "fo": {
+            "labels": 898273,
+            "descriptions": 6322828,
+            "aliases": 178088
+        },
+        "fon": {
+            "labels": 2148,
+            "descriptions": 1239,
+            "aliases": 110
+        },
+        "fr": {
+            "labels": 17745771,
+            "descriptions": 63450580,
+            "aliases": 2037411
+        },
+        "frc": {
+            "labels": 599644,
+            "descriptions": 228172,
+            "aliases": 173979
+        },
+        "frp": {
+            "labels": 1351406,
+            "descriptions": 236236,
+            "aliases": 184957
+        },
+        "frr": {
+            "labels": 670668,
+            "descriptions": 1318904,
+            "aliases": 176810
+        },
+        "fur": {
+            "labels": 1382428,
+            "descriptions": 289560,
+            "aliases": 185596
+        },
+        "fy": {
+            "labels": 939559,
+            "descriptions": 10590983,
+            "aliases": 182533
+        },
+        "ga": {
+            "labels": 10684930,
+            "descriptions": 15708634,
+            "aliases": 215834
+        },
+        "gaa": {
+            "labels": 948,
+            "descriptions": 204,
+            "aliases": 320
+        },
+        "gag": {
+            "labels": 580575,
+            "descriptions": 230687,
+            "aliases": 173996
+        },
+        "gan": {
+            "labels": 1023006,
+            "descriptions": 782152,
+            "aliases": 617567
+        },
+        "gan-hans": {
+            "labels": 898947,
+            "descriptions": 550927,
+            "aliases": 616868
+        },
+        "gan-hant": {
+            "labels": 157431,
+            "descriptions": 550897,
+            "aliases": 616753
+        },
+        "gcf": {
+            "labels": 2,
+            "descriptions": 1,
+            "aliases": 0
+        },
+        "gcr": {
+            "labels": 264104,
+            "descriptions": 568817,
+            "aliases": 150990
+        },
+        "gd": {
+            "labels": 1606794,
+            "descriptions": 893938,
+            "aliases": 187627
+        },
+        "gl": {
+            "labels": 6361635,
+            "descriptions": 45321658,
+            "aliases": 296820
+        },
+        "gld": {
+            "labels": 2,
+            "descriptions": 0,
+            "aliases": 1
+        },
+        "glk": {
+            "labels": 405405,
+            "descriptions": 230760,
+            "aliases": 425828
+        },
+        "gn": {
+            "labels": 584439,
+            "descriptions": 5109996,
+            "aliases": 174868
+        },
+        "gom": {
+            "labels": 267687,
+            "descriptions": 108410,
+            "aliases": 425198
+        },
+        "gom-deva": {
+            "labels": 251073,
+            "descriptions": 5,
+            "aliases": 425121
+        },
+        "gom-latn": {
+            "labels": 420670,
+            "descriptions": 4,
+            "aliases": 168877
+        },
+        "gor": {
+            "labels": 589938,
+            "descriptions": 108886,
+            "aliases": 177000
+        },
+        "got": {
+            "labels": 303280,
+            "descriptions": 230653,
+            "aliases": 428688
+        },
+        "gpe": {
+            "labels": 40958,
+            "descriptions": 12779,
+            "aliases": 4630
+        },
+        "grc": {
+            "labels": 162002,
+            "descriptions": 792,
+            "aliases": 425040
+        },
+        "gsw": {
+            "labels": 1724624,
+            "descriptions": 9026161,
+            "aliases": 191666
+        },
+        "gu": {
+            "labels": 604231,
+            "descriptions": 9148054,
+            "aliases": 621089
+        },
+        "guc": {
+            "labels": 1184,
+            "descriptions": 92,
+            "aliases": 97
+        },
+        "gur": {
+            "labels": 2448,
+            "descriptions": 1480,
+            "aliases": 580
+        },
+        "guw": {
+            "labels": 2717,
+            "descriptions": 79,
+            "aliases": 84
+        },
+        "gv": {
+            "labels": 770892,
+            "descriptions": 5840915,
+            "aliases": 177012
+        },
+        "gya": {
+            "labels": 82,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "ha": {
+            "labels": 620217,
+            "descriptions": 253883,
+            "aliases": 179926
+        },
+        "hak": {
+            "labels": 215934,
+            "descriptions": 346765,
+            "aliases": 428651
+        },
+        "hak-hant": {
+            "labels": 2,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "hak-latn": {
+            "labels": 7,
+            "descriptions": 0,
+            "aliases": 1
+        },
+        "haw": {
+            "labels": 473657,
+            "descriptions": 145163,
+            "aliases": 173928
+        },
+        "he": {
+            "labels": 1080149,
+            "descriptions": 44475907,
+            "aliases": 724343
+        },
+        "hi": {
+            "labels": 815158,
+            "descriptions": 9246102,
+            "aliases": 639520
+        },
+        "hif": {
+            "labels": 576651,
+            "descriptions": 330617,
+            "aliases": 174367
+        },
+        "hif-latn": {
+            "labels": 482035,
+            "descriptions": 14,
+            "aliases": 172477
+        },
+        "hil": {
+            "labels": 429000,
+            "descriptions": 412,
+            "aliases": 170630
+        },
+        "hno": {
+            "labels": 103,
+            "descriptions": 4,
+            "aliases": 6
+        },
+        "ho": {
+            "labels": 468856,
+            "descriptions": 7,
+            "aliases": 173858
+        },
+        "hr": {
+            "labels": 2003735,
+            "descriptions": 8579046,
+            "aliases": 215059
+        },
+        "hrx": {
+            "labels": 429567,
+            "descriptions": 1,
+            "aliases": 170647
+        },
+        "hsb": {
+            "labels": 770620,
+            "descriptions": 5360704,
+            "aliases": 182103
+        },
+        "hsn": {
+            "labels": 4,
+            "descriptions": 3,
+            "aliases": 1
+        },
+        "ht": {
+            "labels": 551147,
+            "descriptions": 282307,
+            "aliases": 176033
+        },
+        "hu": {
+            "labels": 2646686,
+            "descriptions": 37599161,
+            "aliases": 309656
+        },
+        "hu-formal": {
+            "labels": 153140,
+            "descriptions": 2,
+            "aliases": 150844
+        },
+        "hy": {
+            "labels": 1079631,
+            "descriptions": 34244416,
+            "aliases": 650547
+        },
+        "hyw": {
+            "labels": 182429,
+            "descriptions": 3004167,
+            "aliases": 174265
+        },
+        "hz": {
+            "labels": 467200,
+            "descriptions": 4,
+            "aliases": 173849
+        },
+        "ia": {
+            "labels": 5006571,
+            "descriptions": 5967339,
+            "aliases": 186960
+        },
+        "iba": {
+            "labels": 1866,
+            "descriptions": 146,
+            "aliases": 80
+        },
+        "ibb": {
+            "labels": 88,
+            "descriptions": 7,
+            "aliases": 3
+        },
+        "id": {
+            "labels": 3397775,
+            "descriptions": 38079895,
+            "aliases": 592988
+        },
+        "ie": {
+            "labels": 4956971,
+            "descriptions": 202090,
+            "aliases": 185474
+        },
+        "ig": {
+            "labels": 811971,
+            "descriptions": 829118,
+            "aliases": 190345
+        },
+        "igl": {
+            "labels": 5706,
+            "descriptions": 3934,
+            "aliases": 1141
+        },
+        "ii": {
+            "labels": 154626,
+            "descriptions": 4,
+            "aliases": 425352
+        },
+        "ik": {
+            "labels": 468615,
+            "descriptions": 17,
+            "aliases": 181930
+        },
+        "ike-cans": {
+            "labels": 156626,
+            "descriptions": 2,
+            "aliases": 426235
+        },
+        "ike-latn": {
+            "labels": 461614,
+            "descriptions": 1,
+            "aliases": 172386
+        },
+        "ilo": {
+            "labels": 518102,
+            "descriptions": 6582337,
+            "aliases": 175699
+        },
+        "inh": {
+            "labels": 163936,
+            "descriptions": 7381,
+            "aliases": 421696
+        },
+        "io": {
+            "labels": 5310853,
+            "descriptions": 4275114,
+            "aliases": 188053
+        },
+        "is": {
+            "labels": 1561532,
+            "descriptions": 2397884,
+            "aliases": 191724
+        },
+        "isu": {
+            "labels": 86,
+            "descriptions": 3,
+            "aliases": 1
+        },
+        "isv-cyrl": {
+            "labels": 5,
+            "descriptions": 4,
+            "aliases": 0
+        },
+        "isv-latn": {
+            "labels": 17,
+            "descriptions": 12,
+            "aliases": 11
+        },
+        "it": {
+            "labels": 11766234,
+            "descriptions": 48082307,
+            "aliases": 770001
+        },
+        "iu": {
+            "labels": 194329,
+            "descriptions": 27693,
+            "aliases": 450347
+        },
+        "ja": {
+            "labels": 3571042,
+            "descriptions": 42480241,
+            "aliases": 1220155
+        },
+        "jam": {
+            "labels": 611106,
+            "descriptions": 106861,
+            "aliases": 176516
+        },
+        "jbo": {
+            "labels": 497432,
+            "descriptions": 137791,
+            "aliases": 172811
+        },
+        "jut": {
+            "labels": 669321,
+            "descriptions": 549362,
+            "aliases": 170492
+        },
+        "jv": {
+            "labels": 894071,
+            "descriptions": 6709711,
+            "aliases": 187554
+        },
+        "ka": {
+            "labels": 436548,
+            "descriptions": 35258973,
+            "aliases": 630568
+        },
+        "kaa": {
+            "labels": 480280,
+            "descriptions": 277385,
+            "aliases": 174388
+        },
+        "kab": {
+            "labels": 597159,
+            "descriptions": 107226,
+            "aliases": 176735
+        },
+        "kai": {
+            "labels": 33,
+            "descriptions": 1,
+            "aliases": 0
+        },
+        "kbd": {
+            "labels": 158791,
+            "descriptions": 71,
+            "aliases": 425768
+        },
+        "kbd-cyrl": {
+            "labels": 158369,
+            "descriptions": 1,
+            "aliases": 421594
+        },
+        "kbp": {
+            "labels": 426556,
+            "descriptions": 76,
+            "aliases": 170001
+        },
+        "kcg": {
+            "labels": 2884,
+            "descriptions": 2006,
+            "aliases": 1128
+        },
+        "kea": {
+            "labels": 427668,
+            "descriptions": 98,
+            "aliases": 170123
+        },
+        "ker": {
+            "labels": 82,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "kg": {
+            "labels": 1243544,
+            "descriptions": 144997,
+            "aliases": 183864
+        },
+        "kge": {
+            "labels": 3048,
+            "descriptions": 181,
+            "aliases": 103
+        },
+        "khw": {
+            "labels": 154222,
+            "descriptions": 2,
+            "aliases": 425024
+        },
+        "ki": {
+            "labels": 471065,
+            "descriptions": 144541,
+            "aliases": 173899
+        },
+        "kiu": {
+            "labels": 155940,
+            "descriptions": 1,
+            "aliases": 426203
+        },
+        "kj": {
+            "labels": 465292,
+            "descriptions": 14,
+            "aliases": 173691
+        },
+        "kjh": {
+            "labels": 5,
+            "descriptions": 1,
+            "aliases": 2
+        },
+        "kjp": {
+            "labels": 249531,
+            "descriptions": 2,
+            "aliases": 150890
+        },
+        "kk": {
+            "labels": 443231,
+            "descriptions": 984351,
+            "aliases": 640833
+        },
+        "kk-arab": {
+            "labels": 220749,
+            "descriptions": 27677,
+            "aliases": 446734
+        },
+        "kk-cn": {
+            "labels": 165440,
+            "descriptions": 27670,
+            "aliases": 446998
+        },
+        "kk-cyrl": {
+            "labels": 226536,
+            "descriptions": 551178,
+            "aliases": 613762
+        },
+        "kk-kz": {
+            "labels": 170485,
+            "descriptions": 550327,
+            "aliases": 613352
+        },
+        "kk-latn": {
+            "labels": 723831,
+            "descriptions": 550490,
+            "aliases": 174191
+        },
+        "kk-tr": {
+            "labels": 663488,
+            "descriptions": 550447,
+            "aliases": 172175
+        },
+        "kl": {
+            "labels": 539659,
+            "descriptions": 144753,
+            "aliases": 174562
+        },
+        "km": {
+            "labels": 269600,
+            "descriptions": 348129,
+            "aliases": 426386
+        },
+        "kn": {
+            "labels": 529890,
+            "descriptions": 1750038,
+            "aliases": 433914
+        },
+        "knc": {
+            "labels": 1102,
+            "descriptions": 57,
+            "aliases": 65
+        },
+        "ko": {
+            "labels": 1827897,
+            "descriptions": 40667208,
+            "aliases": 780110
+        },
+        "ko-kp": {
+            "labels": 161025,
+            "descriptions": 819,
+            "aliases": 429450
+        },
+        "koi": {
+            "labels": 166799,
+            "descriptions": 145035,
+            "aliases": 423516
+        },
+        "kr": {
+            "labels": 465661,
+            "descriptions": 307,
+            "aliases": 173810
+        },
+        "krc": {
+            "labels": 160258,
+            "descriptions": 108084,
+            "aliases": 425611
+        },
+        "kri": {
+            "labels": 424462,
+            "descriptions": 4,
+            "aliases": 169886
+        },
+        "krj": {
+            "labels": 466681,
+            "descriptions": 683,
+            "aliases": 174379
+        },
+        "krl": {
+            "labels": 424193,
+            "descriptions": 2,
+            "aliases": 169884
+        },
+        "ks": {
+            "labels": 164928,
+            "descriptions": 383114,
+            "aliases": 428491
+        },
+        "ks-arab": {
+            "labels": 154273,
+            "descriptions": 11,
+            "aliases": 425029
+        },
+        "ks-deva": {
+            "labels": 250572,
+            "descriptions": 5,
+            "aliases": 425083
+        },
+        "ksf": {
+            "labels": 3,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "ksh": {
+            "labels": 682981,
+            "descriptions": 860721,
+            "aliases": 176509
+        },
+        "ksw": {
+            "labels": 2,
+            "descriptions": 1,
+            "aliases": 2
+        },
+        "ku": {
+            "labels": 381153,
+            "descriptions": 5116323,
+            "aliases": 434487
+        },
+        "ku-arab": {
+            "labels": 160292,
+            "descriptions": 42,
+            "aliases": 425062
+        },
+        "ku-latn": {
+            "labels": 514600,
+            "descriptions": 1171161,
+            "aliases": 173498
+        },
+        "kum": {
+            "labels": 153175,
+            "descriptions": 2,
+            "aliases": 150889
+        },
+        "kus": {
+            "labels": 1254,
+            "descriptions": 620,
+            "aliases": 287
+        },
+        "kv": {
+            "labels": 169802,
+            "descriptions": 640,
+            "aliases": 422546
+        },
+        "kw": {
+            "labels": 686920,
+            "descriptions": 5469398,
+            "aliases": 175422
+        },
+        "ky": {
+            "labels": 248726,
+            "descriptions": 6869371,
+            "aliases": 450408
+        },
+        "la": {
+            "labels": 4896354,
+            "descriptions": 8640544,
+            "aliases": 215524
+        },
+        "lad": {
+            "labels": 678577,
+            "descriptions": 695586,
+            "aliases": 175176
+        },
+        "lb": {
+            "labels": 1689080,
+            "descriptions": 9896461,
+            "aliases": 198417
+        },
+        "lbe": {
+            "labels": 160341,
+            "descriptions": 80,
+            "aliases": 421933
+        },
+        "lem": {
+            "labels": 82,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "lez": {
+            "labels": 166691,
+            "descriptions": 108304,
+            "aliases": 422029
+        },
+        "lfn": {
+            "labels": 499575,
+            "descriptions": 219328,
+            "aliases": 174959
+        },
+        "lg": {
+            "labels": 469767,
+            "descriptions": 932,
+            "aliases": 174000
+        },
+        "li": {
+            "labels": 1311799,
+            "descriptions": 8117039,
+            "aliases": 189307
+        },
+        "lij": {
+            "labels": 1277829,
+            "descriptions": 13245,
+            "aliases": 185286
+        },
+        "liv": {
+            "labels": 421044,
+            "descriptions": 1,
+            "aliases": 169024
+        },
+        "lki": {
+            "labels": 252781,
+            "descriptions": 1,
+            "aliases": 426165
+        },
+        "lld": {
+            "labels": 216846,
+            "descriptions": 133640,
+            "aliases": 522
+        },
+        "lmo": {
+            "labels": 608787,
+            "descriptions": 261031,
+            "aliases": 182381
+        },
+        "ln": {
+            "labels": 472607,
+            "descriptions": 145683,
+            "aliases": 174508
+        },
+        "lns": {
+            "labels": 82,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "lo": {
+            "labels": 295603,
+            "descriptions": 253611,
+            "aliases": 428764
+        },
+        "loz": {
+            "labels": 456751,
+            "descriptions": 2,
+            "aliases": 171548
+        },
+        "lrc": {
+            "labels": 252413,
+            "descriptions": 7,
+            "aliases": 425067
+        },
+        "lt": {
+            "labels": 1354382,
+            "descriptions": 15349058,
+            "aliases": 220122
+        },
+        "ltg": {
+            "labels": 462181,
+            "descriptions": 122,
+            "aliases": 172439
+        },
+        "lua": {
+            "labels": 59,
+            "descriptions": 3,
+            "aliases": 5
+        },
+        "lus": {
+            "labels": 456770,
+            "descriptions": 1,
+            "aliases": 171541
+        },
+        "luz": {
+            "labels": 285613,
+            "descriptions": 0,
+            "aliases": 428120
+        },
+        "lv": {
+            "labels": 994746,
+            "descriptions": 10102071,
+            "aliases": 411463
+        },
+        "lzh": {
+            "labels": 705391,
+            "descriptions": 1192367,
+            "aliases": 697833
+        },
+        "lzz": {
+            "labels": 194672,
+            "descriptions": 3,
+            "aliases": 429259
+        },
+        "mad": {
+            "labels": 40725,
+            "descriptions": 26774,
+            "aliases": 2490
+        },
+        "mag": {
+            "labels": 2722,
+            "descriptions": 2664,
+            "aliases": 301
+        },
+        "mai": {
+            "labels": 271315,
+            "descriptions": 95658,
+            "aliases": 425345
+        },
+        "map-bms": {
+            "labels": 553618,
+            "descriptions": 4960328,
+            "aliases": 175194
+        },
+        "mcn": {
+            "labels": 730,
+            "descriptions": 15,
+            "aliases": 85
+        },
+        "mcp": {
+            "labels": 82,
+            "descriptions": 0,
+            "aliases": 2
+        },
+        "mdf": {
+            "labels": 173668,
+            "descriptions": 182185,
+            "aliases": 422193
+        },
+        "mg": {
+            "labels": 1325566,
+            "descriptions": 146143,
+            "aliases": 193285
+        },
+        "mh": {
+            "labels": 462588,
+            "descriptions": 1,
+            "aliases": 173603
+        },
+        "mhr": {
+            "labels": 177496,
+            "descriptions": 698385,
+            "aliases": 614606
+        },
+        "mi": {
+            "labels": 698670,
+            "descriptions": 722666,
+            "aliases": 175203
+        },
+        "min": {
+            "labels": 1569150,
+            "descriptions": 7049663,
+            "aliases": 401469
+        },
+        "mk": {
+            "labels": 656915,
+            "descriptions": 10362061,
+            "aliases": 640302
+        },
+        "ml": {
+            "labels": 2747468,
+            "descriptions": 8753514,
+            "aliases": 662160
+        },
+        "mn": {
+            "labels": 244457,
+            "descriptions": 6366341,
+            "aliases": 619720
+        },
+        "mnc": {
+            "labels": 181,
+            "descriptions": 1,
+            "aliases": 12
+        },
+        "mnc-latn": {
+            "labels": 7,
+            "descriptions": 1,
+            "aliases": 1
+        },
+        "mnc-mong": {
+            "labels": 1,
+            "descriptions": 1,
+            "aliases": 1
+        },
+        "mni": {
+            "labels": 254723,
+            "descriptions": 584335,
+            "aliases": 151329
+        },
+        "mnw": {
+            "labels": 272749,
+            "descriptions": 153,
+            "aliases": 151056
+        },
+        "mo": {
+            "labels": 195270,
+            "descriptions": 32,
+            "aliases": 429585
+        },
+        "mos": {
+            "labels": 2390,
+            "descriptions": 72355,
+            "aliases": 539
+        },
+        "mr": {
+            "labels": 554753,
+            "descriptions": 7322289,
+            "aliases": 458952
+        },
+        "mrh": {
+            "labels": 10,
+            "descriptions": 8,
+            "aliases": 4
+        },
+        "mrj": {
+            "labels": 172737,
+            "descriptions": 65,
+            "aliases": 423734
+        },
+        "ms": {
+            "labels": 1944798,
+            "descriptions": 8424526,
+            "aliases": 220306
+        },
+        "ms-arab": {
+            "labels": 8314,
+            "descriptions": 50089,
+            "aliases": 40333
+        },
+        "mt": {
+            "labels": 741979,
+            "descriptions": 833133,
+            "aliases": 177280
+        },
+        "mua": {
+            "labels": 151,
+            "descriptions": 0,
+            "aliases": 1
+        },
+        "mui": {
+            "labels": 3,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "mul": {
+            "labels": 11217543,
+            "descriptions": 0,
+            "aliases": 238917
+        },
+        "mus": {
+            "labels": 475116,
+            "descriptions": 1,
+            "aliases": 174326
+        },
+        "mwl": {
+            "labels": 487562,
+            "descriptions": 293479,
+            "aliases": 174663
+        },
+        "my": {
+            "labels": 366060,
+            "descriptions": 5174023,
+            "aliases": 430840
+        },
+        "myv": {
+            "labels": 176203,
+            "descriptions": 33484,
+            "aliases": 444302
+        },
+        "mzn": {
+            "labels": 502483,
+            "descriptions": 346944,
+            "aliases": 426620
+        },
+        "na": {
+            "labels": 473044,
+            "descriptions": 16,
+            "aliases": 174003
+        },
+        "nah": {
+            "labels": 482421,
+            "descriptions": 10260,
+            "aliases": 174749
+        },
+        "nan": {
+            "labels": 916636,
+            "descriptions": 29561335,
+            "aliases": 452636
+        },
+        "nan-hani": {
+            "labels": 1610,
+            "descriptions": 1529,
+            "aliases": 146
+        },
+        "nan-hant": {
+            "labels": 1341,
+            "descriptions": 1243,
+            "aliases": 28
+        },
+        "nan-latn-pehoeji": {
+            "labels": 742,
+            "descriptions": 746,
+            "aliases": 23
+        },
+        "nan-latn-tailo": {
+            "labels": 673,
+            "descriptions": 510,
+            "aliases": 19
+        },
+        "nap": {
+            "labels": 1278880,
+            "descriptions": 5608469,
+            "aliases": 184601
+        },
+        "nb": {
+            "labels": 4327549,
+            "descriptions": 42824832,
+            "aliases": 470306
+        },
+        "nds": {
+            "labels": 1827800,
+            "descriptions": 8659076,
+            "aliases": 201650
+        },
+        "nds-nl": {
+            "labels": 1323927,
+            "descriptions": 5864338,
+            "aliases": 185700
+        },
+        "ne": {
+            "labels": 307144,
+            "descriptions": 7285052,
+            "aliases": 617757
+        },
+        "new": {
+            "labels": 336793,
+            "descriptions": 700012,
+            "aliases": 629775
+        },
+        "ng": {
+            "labels": 465097,
+            "descriptions": 4,
+            "aliases": 173735
+        },
+        "nge": {
+            "labels": 2,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "nia": {
+            "labels": 1929,
+            "descriptions": 170,
+            "aliases": 73
+        },
+        "nit": {
+            "labels": 0,
+            "descriptions": 0,
+            "aliases": 1
+        },
+        "niu": {
+            "labels": 425196,
+            "descriptions": 2,
+            "aliases": 169934
+        },
+        "nl": {
+            "labels": 56201586,
+            "descriptions": 82448868,
+            "aliases": 1428908
+        },
+        "nl-informal": {
+            "labels": 150998,
+            "descriptions": 3,
+            "aliases": 150843
+        },
+        "nla": {
+            "labels": 62,
+            "descriptions": 0,
+            "aliases": 1
+        },
+        "nmg": {
+            "labels": 82,
+            "descriptions": 1,
+            "aliases": 0
+        },
+        "nmz": {
+            "labels": 2,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "nn": {
+            "labels": 3104255,
+            "descriptions": 42390173,
+            "aliases": 277362
+        },
+        "nnh": {
+            "labels": 82,
+            "descriptions": 1,
+            "aliases": 1
+        },
+        "nnz": {
+            "labels": 2,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "no": {
+            "labels": 139217,
+            "descriptions": 112905,
+            "aliases": 944
+        },
+        "nod": {
+            "labels": 155991,
+            "descriptions": 57,
+            "aliases": 426256
+        },
+        "nog": {
+            "labels": 2,
+            "descriptions": 1,
+            "aliases": 1
+        },
+        "nov": {
+            "labels": 476286,
+            "descriptions": 141393,
+            "aliases": 174070
+        },
+        "nqo": {
+            "labels": 253356,
+            "descriptions": 33719,
+            "aliases": 173740
+        },
+        "nr": {
+            "labels": 144,
+            "descriptions": 37,
+            "aliases": 35
+        },
+        "nrm": {
+            "labels": 1254615,
+            "descriptions": 37392,
+            "aliases": 184566
+        },
+        "nso": {
+            "labels": 475079,
+            "descriptions": 144526,
+            "aliases": 173816
+        },
+        "nup": {
+            "labels": 5,
+            "descriptions": 0,
+            "aliases": 2
+        },
+        "nv": {
+            "labels": 490864,
+            "descriptions": 15,
+            "aliases": 175013
+        },
+        "ny": {
+            "labels": 468688,
+            "descriptions": 278,
+            "aliases": 173772
+        },
+        "nyn": {
+            "labels": 26,
+            "descriptions": 5,
+            "aliases": 5
+        },
+        "nyo": {
+            "labels": 1,
+            "descriptions": 1,
+            "aliases": 0
+        },
+        "nys": {
+            "labels": 432826,
+            "descriptions": 11,
+            "aliases": 172206
+        },
+        "oc": {
+            "labels": 5497687,
+            "descriptions": 31250035,
+            "aliases": 197449
+        },
+        "ojb": {
+            "labels": 3,
+            "descriptions": 1,
+            "aliases": 1
+        },
+        "olo": {
+            "labels": 442321,
+            "descriptions": 96,
+            "aliases": 171214
+        },
+        "om": {
+            "labels": 201389,
+            "descriptions": 144907,
+            "aliases": 430139
+        },
+        "or": {
+            "labels": 491806,
+            "descriptions": 4275391,
+            "aliases": 625596
+        },
+        "os": {
+            "labels": 206074,
+            "descriptions": 836480,
+            "aliases": 616071
+        },
+        "osa-latn": {
+            "labels": 3,
+            "descriptions": 0,
+            "aliases": 1
+        },
+        "ota": {
+            "labels": 252354,
+            "descriptions": 56,
+            "aliases": 425978
+        },
+        "pa": {
+            "labels": 533018,
+            "descriptions": 1195153,
+            "aliases": 429772
+        },
+        "pag": {
+            "labels": 469409,
+            "descriptions": 146097,
+            "aliases": 174116
+        },
+        "pam": {
+            "labels": 512113,
+            "descriptions": 5805221,
+            "aliases": 175669
+        },
+        "pap": {
+            "labels": 1494939,
+            "descriptions": 1931917,
+            "aliases": 180931
+        },
+        "pap-aw": {
+            "labels": 486,
+            "descriptions": 456,
+            "aliases": 15
+        },
+        "pcd": {
+            "labels": 1273797,
+            "descriptions": 158078,
+            "aliases": 186131
+        },
+        "pcm": {
+            "labels": 5123,
+            "descriptions": 2859,
+            "aliases": 1071
+        },
+        "pdc": {
+            "labels": 487401,
+            "descriptions": 492,
+            "aliases": 175607
+        },
+        "pdt": {
+            "labels": 475874,
+            "descriptions": 5,
+            "aliases": 174431
+        },
+        "pfl": {
+            "labels": 512130,
+            "descriptions": 141788,
+            "aliases": 175480
+        },
+        "pi": {
+            "labels": 259773,
+            "descriptions": 144530,
+            "aliases": 426390
+        },
+        "pih": {
+            "labels": 471653,
+            "descriptions": 153,
+            "aliases": 174355
+        },
+        "pl": {
+            "labels": 8644781,
+            "descriptions": 41746780,
+            "aliases": 534369
+        },
+        "pms": {
+            "labels": 1558248,
+            "descriptions": 667871,
+            "aliases": 186522
+        },
+        "pnb": {
+            "labels": 454587,
+            "descriptions": 255918,
+            "aliases": 426629
+        },
+        "pnt": {
+            "labels": 158699,
+            "descriptions": 144440,
+            "aliases": 425748
+        },
+        "prg": {
+            "labels": 583072,
+            "descriptions": 58,
+            "aliases": 176322
+        },
+        "ps": {
+            "labels": 278969,
+            "descriptions": 6136084,
+            "aliases": 426408
+        },
+        "pt": {
+            "labels": 10403545,
+            "descriptions": 46251536,
+            "aliases": 572714
+        },
+        "pt-br": {
+            "labels": 8023231,
+            "descriptions": 39947196,
+            "aliases": 260318
+        },
+        "pwn": {
+            "labels": 2261,
+            "descriptions": 277,
+            "aliases": 122
+        },
+        "qu": {
+            "labels": 502321,
+            "descriptions": 153753,
+            "aliases": 182217
+        },
+        "quc": {
+            "labels": 18,
+            "descriptions": 5,
+            "aliases": 4
+        },
+        "qug": {
+            "labels": 463332,
+            "descriptions": 20,
+            "aliases": 173390
+        },
+        "rgn": {
+            "labels": 545496,
+            "descriptions": 125471,
+            "aliases": 172936
+        },
+        "rif": {
+            "labels": 462896,
+            "descriptions": 5,
+            "aliases": 173133
+        },
+        "rki": {
+            "labels": 832,
+            "descriptions": 27,
+            "aliases": 79
+        },
+        "rm": {
+            "labels": 1334295,
+            "descriptions": 147200,
+            "aliases": 185179
+        },
+        "rmc": {
+            "labels": 49,
+            "descriptions": 5,
+            "aliases": 8
+        },
+        "rmf": {
+            "labels": 157215,
+            "descriptions": 1,
+            "aliases": 151823
+        },
+        "rmy": {
+            "labels": 208994,
+            "descriptions": 4947011,
+            "aliases": 430573
+        },
+        "rn": {
+            "labels": 467091,
+            "descriptions": 331,
+            "aliases": 173900
+        },
+        "ro": {
+            "labels": 6706585,
+            "descriptions": 44617817,
+            "aliases": 304478
+        },
+        "roa-rup": {
+            "labels": 7,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "roa-tara": {
+            "labels": 486791,
+            "descriptions": 44730,
+            "aliases": 174525
+        },
+        "rsk": {
+            "labels": 758,
+            "descriptions": 75,
+            "aliases": 59
+        },
+        "ru": {
+            "labels": 9243385,
+            "descriptions": 48649527,
+            "aliases": 1800656
+        },
+        "rue": {
+            "labels": 173019,
+            "descriptions": 803085,
+            "aliases": 614027
+        },
+        "rup": {
+            "labels": 488652,
+            "descriptions": 144508,
+            "aliases": 174405
+        },
+        "ruq": {
+            "labels": 157357,
+            "descriptions": 3,
+            "aliases": 426485
+        },
+        "ruq-cyrl": {
+            "labels": 160043,
+            "descriptions": 2,
+            "aliases": 422457
+        },
+        "ruq-latn": {
+            "labels": 459767,
+            "descriptions": 1,
+            "aliases": 172295
+        },
+        "rut": {
+            "labels": 6,
+            "descriptions": 0,
+            "aliases": 1
+        },
+        "rw": {
+            "labels": 474448,
+            "descriptions": 5442,
+            "aliases": 174303
+        },
+        "rwr": {
+            "labels": 252100,
+            "descriptions": 0,
+            "aliases": 426225
+        },
+        "ryu": {
+            "labels": 2195,
+            "descriptions": 2509302,
+            "aliases": 406
+        },
+        "sa": {
+            "labels": 465470,
+            "descriptions": 334067,
+            "aliases": 448476
+        },
+        "sah": {
+            "labels": 185684,
+            "descriptions": 253074,
+            "aliases": 423223
+        },
+        "sat": {
+            "labels": 316119,
+            "descriptions": 227765,
+            "aliases": 430420
+        },
+        "sc": {
+            "labels": 1407895,
+            "descriptions": 156262,
+            "aliases": 186627
+        },
+        "scn": {
+            "labels": 1310434,
+            "descriptions": 5805624,
+            "aliases": 189658
+        },
+        "sco": {
+            "labels": 1733194,
+            "descriptions": 9088544,
+            "aliases": 192019
+        },
+        "sd": {
+            "labels": 398403,
+            "descriptions": 4974344,
+            "aliases": 447855
+        },
+        "sdc": {
+            "labels": 473641,
+            "descriptions": 1279,
+            "aliases": 173711
+        },
+        "sdh": {
+            "labels": 251883,
+            "descriptions": 9,
+            "aliases": 425047
+        },
+        "se": {
+            "labels": 828829,
+            "descriptions": 6779579,
+            "aliases": 192979
+        },
+        "se-fi": {
+            "labels": 12,
+            "descriptions": 1,
+            "aliases": 0
+        },
+        "se-no": {
+            "labels": 14,
+            "descriptions": 1,
+            "aliases": 3
+        },
+        "se-se": {
+            "labels": 5,
+            "descriptions": 1,
+            "aliases": 0
+        },
+        "sei": {
+            "labels": 465892,
+            "descriptions": 76,
+            "aliases": 172138
+        },
+        "ses": {
+            "labels": 155803,
+            "descriptions": 2,
+            "aliases": 426222
+        },
+        "sg": {
+            "labels": 466268,
+            "descriptions": 144433,
+            "aliases": 173759
+        },
+        "sgs": {
+            "labels": 518909,
+            "descriptions": 293189,
+            "aliases": 175690
+        },
+        "sh": {
+            "labels": 970012,
+            "descriptions": 6052822,
+            "aliases": 642823
+        },
+        "sh-cyrl": {
+            "labels": 95,
+            "descriptions": 73,
+            "aliases": 6
+        },
+        "sh-latn": {
+            "labels": 28,
+            "descriptions": 7,
+            "aliases": 4
+        },
+        "shi": {
+            "labels": 157347,
+            "descriptions": 5635,
+            "aliases": 425633
+        },
+        "shi-latn": {
+            "labels": 459715,
+            "descriptions": 2,
+            "aliases": 172273
+        },
+        "shi-tfng": {
+            "labels": 154224,
+            "descriptions": 2,
+            "aliases": 425336
+        },
+        "shn": {
+            "labels": 281155,
+            "descriptions": 10980,
+            "aliases": 426418
+        },
+        "shy": {
+            "labels": 43,
+            "descriptions": 4,
+            "aliases": 2
+        },
+        "shy-latn": {
+            "labels": 153259,
+            "descriptions": 15,
+            "aliases": 150894
+        },
+        "si": {
+            "labels": 216356,
+            "descriptions": 5435896,
+            "aliases": 427399
+        },
+        "simple": {
+            "labels": 179251,
+            "descriptions": 7523,
+            "aliases": 679
+        },
+        "sjd": {
+            "labels": 155087,
+            "descriptions": 68,
+            "aliases": 151467
+        },
+        "sje": {
+            "labels": 689379,
+            "descriptions": 555962,
+            "aliases": 171283
+        },
+        "sju": {
+            "labels": 157178,
+            "descriptions": 1,
+            "aliases": 151814
+        },
+        "sk": {
+            "labels": 2650890,
+            "descriptions": 40160251,
+            "aliases": 236238
+        },
+        "skr": {
+            "labels": 161838,
+            "descriptions": 122,
+            "aliases": 150941
+        },
+        "skr-arab": {
+            "labels": 250982,
+            "descriptions": 7,
+            "aliases": 150890
+        },
+        "sl": {
+            "labels": 5267066,
+            "descriptions": 17390361,
+            "aliases": 361753
+        },
+        "sli": {
+            "labels": 473542,
+            "descriptions": 3,
+            "aliases": 173961
+        },
+        "sm": {
+            "labels": 470496,
+            "descriptions": 60,
+            "aliases": 173900
+        },
+        "sma": {
+            "labels": 685540,
+            "descriptions": 556373,
+            "aliases": 175347
+        },
+        "smj": {
+            "labels": 646931,
+            "descriptions": 556034,
+            "aliases": 172643
+        },
+        "smn": {
+            "labels": 389478,
+            "descriptions": 319182,
+            "aliases": 154233
+        },
+        "sms": {
+            "labels": 193586,
+            "descriptions": 40302,
+            "aliases": 154177
+        },
+        "sn": {
+            "labels": 669892,
+            "descriptions": 549771,
+            "aliases": 174153
+        },
+        "so": {
+            "labels": 498301,
+            "descriptions": 145793,
+            "aliases": 174240
+        },
+        "sq": {
+            "labels": 11364583,
+            "descriptions": 45702176,
+            "aliases": 246853
+        },
+        "sr": {
+            "labels": 1314585,
+            "descriptions": 39503565,
+            "aliases": 690142
+        },
+        "sr-ec": {
+            "labels": 367706,
+            "descriptions": 30689568,
+            "aliases": 615146
+        },
+        "sr-el": {
+            "labels": 1478246,
+            "descriptions": 28112669,
+            "aliases": 183975
+        },
+        "srn": {
+            "labels": 682705,
+            "descriptions": 320969,
+            "aliases": 174089
+        },
+        "sro": {
+            "labels": 3,
+            "descriptions": 1,
+            "aliases": 0
+        },
+        "srq": {
+            "labels": 424382,
+            "descriptions": 0,
+            "aliases": 169904
+        },
+        "ss": {
+            "labels": 464518,
+            "descriptions": 274,
+            "aliases": 173681
+        },
+        "st": {
+            "labels": 467749,
+            "descriptions": 133429,
+            "aliases": 173837
+        },
+        "stq": {
+            "labels": 489285,
+            "descriptions": 5720973,
+            "aliases": 175677
+        },
+        "sty": {
+            "labels": 153223,
+            "descriptions": 17,
+            "aliases": 150890
+        },
+        "su": {
+            "labels": 706046,
+            "descriptions": 5241951,
+            "aliases": 181873
+        },
+        "sv": {
+            "labels": 9158526,
+            "descriptions": 43266355,
+            "aliases": 569765
+        },
+        "sw": {
+            "labels": 1623263,
+            "descriptions": 7734701,
+            "aliases": 201226
+        },
+        "syl": {
+            "labels": 2248,
+            "descriptions": 22606,
+            "aliases": 488
+        },
+        "szl": {
+            "labels": 544752,
+            "descriptions": 43352,
+            "aliases": 175439
+        },
+        "szy": {
+            "labels": 158038,
+            "descriptions": 291,
+            "aliases": 151020
+        },
+        "ta": {
+            "labels": 597424,
+            "descriptions": 8712618,
+            "aliases": 646762
+        },
+        "tay": {
+            "labels": 157434,
+            "descriptions": 226,
+            "aliases": 151027
+        },
+        "tcy": {
+            "labels": 254233,
+            "descriptions": 17242,
+            "aliases": 425510
+        },
+        "tdd": {
+            "labels": 649,
+            "descriptions": 23,
+            "aliases": 23
+        },
+        "te": {
+            "labels": 619929,
+            "descriptions": 3378048,
+            "aliases": 632681
+        },
+        "tet": {
+            "labels": 497896,
+            "descriptions": 510,
+            "aliases": 176423
+        },
+        "tg": {
+            "labels": 332623,
+            "descriptions": 17644021,
+            "aliases": 621838
+        },
+        "tg-cyrl": {
+            "labels": 160451,
+            "descriptions": 37683387,
+            "aliases": 612745
+        },
+        "tg-latn": {
+            "labels": 658819,
+            "descriptions": 14318017,
+            "aliases": 172454
+        },
+        "th": {
+            "labels": 635962,
+            "descriptions": 34331839,
+            "aliases": 665553
+        },
+        "ti": {
+            "labels": 155690,
+            "descriptions": 148,
+            "aliases": 425442
+        },
+        "tig": {
+            "labels": 110,
+            "descriptions": 5,
+            "aliases": 6
+        },
+        "tk": {
+            "labels": 209218,
+            "descriptions": 251756,
+            "aliases": 429825
+        },
+        "tl": {
+            "labels": 511373,
+            "descriptions": 33353500,
+            "aliases": 634210
+        },
+        "tly": {
+            "labels": 164670,
+            "descriptions": 145,
+            "aliases": 425427
+        },
+        "tly-cyrl": {
+            "labels": 1,
+            "descriptions": 1,
+            "aliases": 2
+        },
+        "tn": {
+            "labels": 468396,
+            "descriptions": 145081,
+            "aliases": 174065
+        },
+        "to": {
+            "labels": 468167,
+            "descriptions": 125,
+            "aliases": 174095
+        },
+        "tok": {
+            "labels": 2074,
+            "descriptions": 1430,
+            "aliases": 563
+        },
+        "tpi": {
+            "labels": 481084,
+            "descriptions": 181421,
+            "aliases": 174509
+        },
+        "tpv": {
+            "labels": 1,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "tr": {
+            "labels": 3771640,
+            "descriptions": 42226800,
+            "aliases": 562951
+        },
+        "tru": {
+            "labels": 194510,
+            "descriptions": 2,
+            "aliases": 429421
+        },
+        "trv": {
+            "labels": 3900,
+            "descriptions": 30,
+            "aliases": 104
+        },
+        "ts": {
+            "labels": 467076,
+            "descriptions": 144823,
+            "aliases": 173837
+        },
+        "tt": {
+            "labels": 671286,
+            "descriptions": 6452812,
+            "aliases": 462075
+        },
+        "tt-cyrl": {
+            "labels": 168438,
+            "descriptions": 5827724,
+            "aliases": 445673
+        },
+        "tt-latn": {
+            "labels": 465381,
+            "descriptions": 5483276,
+            "aliases": 174071
+        },
+        "ttj": {
+            "labels": 1,
+            "descriptions": 1,
+            "aliases": 0
+        },
+        "tum": {
+            "labels": 472274,
+            "descriptions": 587,
+            "aliases": 173941
+        },
+        "tvu": {
+            "labels": 82,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "tw": {
+            "labels": 472072,
+            "descriptions": 281554,
+            "aliases": 174727
+        },
+        "ty": {
+            "labels": 588625,
+            "descriptions": 264,
+            "aliases": 180341
+        },
+        "tyv": {
+            "labels": 159174,
+            "descriptions": 106797,
+            "aliases": 425442
+        },
+        "tzm": {
+            "labels": 153202,
+            "descriptions": 1493,
+            "aliases": 150895
+        },
+        "udm": {
+            "labels": 194704,
+            "descriptions": 25372,
+            "aliases": 423719
+        },
+        "ug": {
+            "labels": 273849,
+            "descriptions": 231232,
+            "aliases": 425933
+        },
+        "ug-arab": {
+            "labels": 154431,
+            "descriptions": 7,
+            "aliases": 425044
+        },
+        "ug-latn": {
+            "labels": 459815,
+            "descriptions": 3,
+            "aliases": 172284
+        },
+        "uk": {
+            "labels": 6309547,
+            "descriptions": 81893235,
+            "aliases": 1005230
+        },
+        "ur": {
+            "labels": 1161602,
+            "descriptions": 13856344,
+            "aliases": 458642
+        },
+        "uz": {
+            "labels": 662234,
+            "descriptions": 1008423,
+            "aliases": 664188
+        },
+        "uz-cyrl": {
+            "labels": 153857,
+            "descriptions": 183,
+            "aliases": 150957
+        },
+        "uz-latn": {
+            "labels": 153197,
+            "descriptions": 7,
+            "aliases": 150892
+        },
+        "ve": {
+            "labels": 575206,
+            "descriptions": 108431,
+            "aliases": 173872
+        },
+        "vec": {
+            "labels": 2364221,
+            "descriptions": 668670,
+            "aliases": 191060
+        },
+        "vep": {
+            "labels": 349584,
+            "descriptions": 143474,
+            "aliases": 423383
+        },
+        "vi": {
+            "labels": 6392513,
+            "descriptions": 40091296,
+            "aliases": 285351
+        },
+        "vls": {
+            "labels": 1402060,
+            "descriptions": 215351,
+            "aliases": 186491
+        },
+        "vmf": {
+            "labels": 600174,
+            "descriptions": 748,
+            "aliases": 177891
+        },
+        "vmw": {
+            "labels": 4,
+            "descriptions": 2,
+            "aliases": 0
+        },
+        "vo": {
+            "labels": 5146480,
+            "descriptions": 337639,
+            "aliases": 192495
+        },
+        "vot": {
+            "labels": 197433,
+            "descriptions": 1,
+            "aliases": 430192
+        },
+        "vro": {
+            "labels": 746972,
+            "descriptions": 457311,
+            "aliases": 171530
+        },
+        "vut": {
+            "labels": 82,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "wa": {
+            "labels": 1607491,
+            "descriptions": 828435,
+            "aliases": 188107
+        },
+        "wal": {
+            "labels": 70,
+            "descriptions": 64,
+            "aliases": 7
+        },
+        "war": {
+            "labels": 4880088,
+            "descriptions": 897332,
+            "aliases": 194107
+        },
+        "wes": {
+            "labels": 84,
+            "descriptions": 0,
+            "aliases": 2
+        },
+        "wls": {
+            "labels": 561,
+            "descriptions": 48,
+            "aliases": 11
+        },
+        "wlx": {
+            "labels": 335,
+            "descriptions": 292,
+            "aliases": 153
+        },
+        "wo": {
+            "labels": 1350794,
+            "descriptions": 108591,
+            "aliases": 184079
+        },
+        "wuu": {
+            "labels": 1249626,
+            "descriptions": 29746173,
+            "aliases": 449663
+        },
+        "wuu-hans": {
+            "labels": 47,
+            "descriptions": 2,
+            "aliases": 16
+        },
+        "wuu-hant": {
+            "labels": 74,
+            "descriptions": 9,
+            "aliases": 12
+        },
+        "wya": {
+            "labels": 2,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "xal": {
+            "labels": 267150,
+            "descriptions": 230581,
+            "aliases": 425535
+        },
+        "xh": {
+            "labels": 781224,
+            "descriptions": 657941,
+            "aliases": 174457
+        },
+        "xmf": {
+            "labels": 292937,
+            "descriptions": 441064,
+            "aliases": 425918
+        },
+        "xsy": {
+            "labels": 153503,
+            "descriptions": 2,
+            "aliases": 150890
+        },
+        "yas": {
+            "labels": 83,
+            "descriptions": 1,
+            "aliases": 1
+        },
+        "yat": {
+            "labels": 82,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "yav": {
+            "labels": 82,
+            "descriptions": 0,
+            "aliases": 1
+        },
+        "ybb": {
+            "labels": 183,
+            "descriptions": 0,
+            "aliases": 0
+        },
+        "yi": {
+            "labels": 289191,
+            "descriptions": 3488918,
+            "aliases": 620298
+        },
+        "yo": {
+            "labels": 981364,
+            "descriptions": 8344424,
+            "aliases": 182109
+        },
+        "yrl": {
+            "labels": 54,
+            "descriptions": 22,
+            "aliases": 17
+        },
+        "yue": {
+            "labels": 666968,
+            "descriptions": 37840630,
+            "aliases": 627862
+        },
+        "yue-hans": {
+            "labels": 30,
+            "descriptions": 5,
+            "aliases": 3
+        },
+        "yue-hant": {
+            "labels": 24,
+            "descriptions": 7,
+            "aliases": 9
+        },
+        "za": {
+            "labels": 525506,
+            "descriptions": 258290,
+            "aliases": 429704
+        },
+        "zea": {
+            "labels": 603379,
+            "descriptions": 8152788,
+            "aliases": 175652
+        },
+        "zgh": {
+            "labels": 155991,
+            "descriptions": 866,
+            "aliases": 151359
+        },
+        "zgh-latn": {
+            "labels": 2,
+            "descriptions": 1,
+            "aliases": 0
+        },
+        "zh": {
+            "labels": 9603306,
+            "descriptions": 43663982,
+            "aliases": 1241497
+        },
+        "zh-classical": {
+            "labels": 3,
+            "descriptions": 2,
+            "aliases": 2
+        },
+        "zh-cn": {
+            "labels": 1473015,
+            "descriptions": 35183031,
+            "aliases": 646455
+        },
+        "zh-hans": {
+            "labels": 2211266,
+            "descriptions": 40689942,
+            "aliases": 660668
+        },
+        "zh-hant": {
+            "labels": 1827615,
+            "descriptions": 40678354,
+            "aliases": 766943
+        },
+        "zh-hk": {
+            "labels": 554008,
+            "descriptions": 35114826,
+            "aliases": 624135
+        },
+        "zh-min-nan": {
+            "labels": 2,
+            "descriptions": 2,
+            "aliases": 2
+        },
+        "zh-mo": {
+            "labels": 303019,
+            "descriptions": 34082989,
+            "aliases": 619580
+        },
+        "zh-my": {
+            "labels": 1040562,
+            "descriptions": 33801608,
+            "aliases": 620347
+        },
+        "zh-sg": {
+            "labels": 1107591,
+            "descriptions": 34302611,
+            "aliases": 621142
+        },
+        "zh-tw": {
+            "labels": 721001,
+            "descriptions": 35243185,
+            "aliases": 654726
+        },
+        "zh-yue": {
+            "labels": 17,
+            "descriptions": 1186,
+            "aliases": 2
+        },
+        "zu": {
+            "labels": 1559678,
+            "descriptions": 787613,
+            "aliases": 184422
+        }
+    }
+}

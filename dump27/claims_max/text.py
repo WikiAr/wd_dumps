@@ -1,7 +1,7 @@
 """
 
 python dump1/claims_max/text.py
-python I:\core\bots\dump_core\dump26\claims_max\text.py
+python I:/core/bots/dump_core/dump26/claims_max/text.py
 
 """
 import requests
@@ -350,9 +350,12 @@ def GetPageText_new(title):
     # ---
     text = ''
     # ---
+    session = requests.session()
+    session.headers.update({"User-Agent": "Himo bot/1.0 (https://himo.toolforge.org/; tools.himo@toolforge.org)"})
+    # ---
     # get url text
     try:
-        response = requests.get(url, timeout=10)
+        response = session.get(url, timeout=10)
         response.raise_for_status()  # Raises HTTPError for bad responses
         text = response.text
     except requests.exceptions.RequestException as e:

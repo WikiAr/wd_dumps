@@ -24,7 +24,17 @@ new_data = {
     "date": "",
     "last_total": 0,
     "items_without_sitelinks": 0,
-    "sitelinks": {},
+    "sitelinks": {
+        "wikisource": {},
+        "wikiquote": {},
+        "wiktionary": {},
+        "wikivoyage": {},
+        "wikinews": {},
+        "wikibooks": {},
+        "wikiversity": {},
+        "wikipedia": {},
+        "others": {},
+    },
 }
 # ---
 new_data_file = sitelinks_results_dir / "sitelinks.json"
@@ -183,21 +193,31 @@ def min_it(new, old, add_plus=False):
 def make_families_text_u(du_tab, Old, All_items):
     text_tab = {}
     # ---
-    old_sitelinks = Old.get("sitelinks", {})
-    # ---
     for family, sitelinks in du_tab.items():
         # ---
         family_rows = []
+        # ---
+        old_sitelinks = Old.get("sitelinks", {}).get(family, {})
         # ---
         n = 0
         # ---
         all_links = sum(sitelinks.values())
         # ---
+        new_data_family = {}
+        # ---
+        print("--"*50)
+        print(family, all_links)
+        # ---
         for code, _sitelinks_ in sitelinks.items():
-            new_data["sitelinks"][code] = _sitelinks_
+            new_data_family[code] = _sitelinks_
             n += 1
+            # ---
+            old_links = old_sitelinks.get(code, 0)
+            # ---
+            print(f"{n} \t {code} \t new: {_sitelinks_:,} \t old: {old_links:,}")
+            # ---
             new_sitelinks = 0
-            new_sitelinks = min_it(_sitelinks_, old_sitelinks.get(code, 0))
+            new_sitelinks = min_it(_sitelinks_, old_links)
 
             # langs_tag_line = "{{#language:%s|en}}" % code
             # langs_tag_line_2 = "{{#language:%s}}" % code
@@ -217,6 +237,11 @@ def make_families_text_u(du_tab, Old, All_items):
             line = f"""| {n} || {wikilink} || {wikiname} || {_sitelinks_:,} || {color_tag_l} {plus}{new_sitelinks:,} """
             # ---
             family_rows.append(line)
+        # ---
+        # sort new_data_family by value
+        new_data_family = dict(sorted(new_data_family.items(), key=lambda x: x[1], reverse=True))
+        # ---
+        new_data["sitelinks"][family] = new_data_family
         # ---
         family_name = family
         # ---
@@ -302,9 +327,12 @@ def facts(n_tab, Old):
     if n_tab.get("most", {}).get("sitelinks"):
         q = n_tab["most"]["sitelinks"]["q"]
         count = n_tab["most"]["sitelinks"]["count"]
-        text += f"|-\n| Most linked item ([[{q}]]) || {count:,} || \n"
+        line = f"|-\n| Most linked item ([[{q}]]) || {count:,} || \n"
+        text += line
     # ---
     text += "|}\n\n"
+    # ---
+    print(text)
     # ---
     return text
 
@@ -318,9 +346,12 @@ def GetPageText_new(title):
     # ---
     text = ''
     # ---
+    session = requests.session()
+    session.headers.update({"User-Agent": "Himo bot/1.0 (https://himo.toolforge.org/; tools.himo@toolforge.org)"})
+    # ---
     # get url text
     try:
-        response = requests.get(url, timeout=10)
+        response = session.get(url, timeout=10)
         response.raise_for_status()  # Raises HTTPError for bad responses
         text = response.text
     except requests.exceptions.RequestException as e:
@@ -344,6 +375,12 @@ def get_old_data():
     except json.JSONDecodeError as e:
         print(f"Error decoding JSON: {e}")
         Old = {}
+    # ---
+    if not Old:
+        old_file = Path(__file__).parent / "sitelinks_old.json"
+        if old_file.exists():
+            with open(old_file, "r", encoding="utf-8") as infile:
+                Old = json.load(infile)
     # ---
     return Old
 
@@ -392,7 +429,7 @@ def main_labels(tabb):
     print(f"saved to {labels_file}")
     # ---
     # sort new_data['sitelinks'] by keys
-    new_data["sitelinks"] = dict(sorted(new_data["sitelinks"].items()))
+    # new_data["sitelinks"] = dict(sorted(new_data["sitelinks"].items()))
     # ---
     with open(new_data_file, "w", encoding="utf-8") as outfile:
         json.dump(new_data, outfile, indent=4)
